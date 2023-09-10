@@ -7,7 +7,7 @@ Welcome to my portfolio website, crafted with HTML, CSS, and JavaScript. Showcas
 
 <img src="/Images/P00.jpg" alt="port0">
 
-This page is the loader of my portfolio it goes from 0% to 100%.
+This page is the loader of my portfolio it goes from 0% to 100%. "Using JavaScript"
 
 - <h2> Here start's the landing page</h2>
 
