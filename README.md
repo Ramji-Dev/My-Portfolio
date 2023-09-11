@@ -14,3 +14,10 @@ This page is the loader of my portfolio it goes from 0% to 100%. "Using JavaScri
 <img src="/Images/P1.jpg" alt="port1">
 <img src="/Images/P2.jpg" alt="port2">
 <img src="/Images/P3.jpg" alt="port3">
+<img src="/Images/P4.jpg" alt="port4">
+<img src="/Images/P5.jpg" alt="port5">
+
+- <h2> This is where I show case my projects</h2>
+
+<img src="/Images/P6.jpg" alt="port6">
+<img src="/Images/P7.jpg" alt="port7">
