@@ -21,3 +21,11 @@ This page is the loader of my portfolio it goes from 0% to 100%. "Using JavaScri
 
 <img src="/Images/P6.jpg" alt="port6">
 <img src="/Images/P7.jpg" alt="port7">
+
+- <h2>Everything about me 😁</h2>
+
+<img src="/Images/P8.jpg" alt="port8">
+<img src="/Images/P9.jpg" alt="port9">
+
+- <h2>Contact me ;)</h2>
+<img src="/Images/P10.jpg" alt="port10">
